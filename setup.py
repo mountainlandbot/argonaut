@@ -20,7 +20,7 @@ setup(
     download_url='http://pypi.python.org/pypi/Argonaut',
     install_requires=[
         "WebHelpers==1.1",
-        "WebOb==0.9.8",
+        "WebOb==1.8.8",
         "Pylons>=1.0",
         "SQLAlchemy>=0.5",
         "repoze.what-pylons",
